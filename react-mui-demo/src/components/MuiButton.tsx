@@ -1,6 +1,5 @@
 import { Stack, Button, IconButton, ButtonGroup } from "@mui/material"
 import SendIcon from '@mui/icons-material/Send';
-import { Send } from "@mui/icons-material";
 
 export const MuiButton = () => {
   return (
